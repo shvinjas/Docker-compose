@@ -11,18 +11,7 @@ Ensure you have the following installed:
 Docker
 Docker Compose
 
-### Directory Structure
-.
-├── api
-│   ├── Dockerfile
-│   ├── package.json
-│   └── app.js
-└── myblog
-    ├── Dockerfile
-    ├── package.json
-    └── index.js
-├── docker-compose.yml
-└── README.md
+
 
 ### API
 The API service is a Node.js application that provides data for the blog. It runs on localhost:4000.
